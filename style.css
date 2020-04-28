@@ -1,0 +1,84 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+section {
+    margin-top: 50px;
+}
+
+.container {
+    margin-bottom: 30px;
+}
+
+.form-control {
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+}
+
+.navbar {
+    padding: 20px 30px;
+}
+
+.carousel {
+    background-color: #FEEAE9;
+    height: 744px;
+    padding: 150px 50px 0px 50px;
+}
+
+.btn {
+    background: linear-gradient(to top, #FF136F, #FF589B);
+    color: #fff;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.price {
+    color: #FF136F;
+    font-weight: 600;
+}
+
+.carousel-item p {
+    margin: 20px 0;
+}
+
+.carousel-item h1 {
+    font-weight: 800;
+}
+
+.carousel-indicators .active {
+    background: linear-gradient(to top, #FF136F, #FF589B);
+}
+
+.shoes {
+    background-color: blue;
+}
+
+.bags {
+    background-color: #FF136F;
+}
+
+.watches {
+    background-color: orangered;
+}
+
+#categories h3 {
+    color: #fff;
+}
+
+#categories h2 {
+    margin-bottom: 50px;
+}
+
+
+#categories img {
+    width: 40%;
+    padding: 20px 0px;
+}
+
+.shoes, .bags, .watches {
+    border-radius: 20px;
+}
