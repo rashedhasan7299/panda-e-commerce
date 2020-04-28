@@ -25,6 +25,7 @@ section {
     background-color: #FEEAE9;
     height: 744px;
     padding: 150px 50px 0px 50px;
+    border-radius: 20px;
 }
 
 .btn {
@@ -81,4 +82,40 @@ section {
 
 .shoes, .bags, .watches {
     border-radius: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px 5px rgba(70, 70, 70, 0.2);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card h5{
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.card-footer {
+    background-color: #fff;
+    border: none;
+}
+
+.card-footer .btn-black {
+    background: rgb(36, 36, 36);
+    margin-bottom: 20px;
+}
+
+.price-black {
+    color: rgb(15, 15, 15);
+}
+
+.yellow-highlight {
+    color: sandybrown;
+}
+
+#shoes, #backpack {
+    margin-top: 100px;
 }
